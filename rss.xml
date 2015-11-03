@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Manu]]></title>
+        <description><![CDATA[Manu]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 Nov 2015 01:10:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mixing / Mastering Showcase]]></title>
+            <description><![CDATA[<article><h1>Mixing / Mastering Showcase</h1><p>All songs either mixed or mastered by Manuel Jimenez at Arimaka Studio (http://www.arimaka.com ) Mastered by Eric Boulanger at The Mastering Lab and Bakery Mastering: Alnilam, Olafo, and Ojo de Buey</p><img src="http://i1.sndcdn.com/artworks-000000993460-bdxsxj-t500x500.jpg"></article>]]></description>
+            <link>https://soundcloud.com/arimaka/sets/showcase</link>
+            <guid isPermaLink="false">11f70b11-dfc2-4250-add1-1d4f90a2302d</guid>
+            <pubDate>Tue, 03 Nov 2015 01:09:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
