@@ -1,0 +1,23 @@
+name: Manu
+favicon: null
+layout_spectrum: 0.7822016817517579
+typography_spectrum: 0.1594725342001766
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.16061653150245547
+  lightness: 0.3866776917129755
+  saturation: 0.4700669785961509
+  rhythmicContrast: 0.4689433730673045
+purpose: []
