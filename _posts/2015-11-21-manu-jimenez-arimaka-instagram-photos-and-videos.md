@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://instagram.com/arimaka/'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-21T04:42:53.961Z'
-dateModified: '2015-11-21T04:42:50.759Z'
+datePublished: '2015-11-21T04:50:35.493Z'
+dateModified: '2015-11-21T04:50:31.978Z'
 author: []
 related: []
 app_links:
@@ -28,7 +29,6 @@ publisher:
   domain: instagram.com
   url: 'https://instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/5bb6552/images/ico/favicon.ico'
-url: manu-jimenez-arimaka-instagram-photos-and-videos/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
