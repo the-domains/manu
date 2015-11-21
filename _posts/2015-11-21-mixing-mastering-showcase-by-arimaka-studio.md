@@ -24,8 +24,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/arimaka/sets/showcase'
 title: Mixing / Mastering Showcase by Arimaka Studio
-datePublished: '2015-11-21T04:40:15.711Z'
-dateModified: '2015-11-21T04:38:53.427Z'
+datePublished: '2015-11-21T04:42:00.733Z'
+dateModified: '2015-11-21T04:41:25.549Z'
 sourcePath: _posts/2015-11-21-mixing-mastering-showcase-by-arimaka-studio.md
 published: true
 inFeed: true
