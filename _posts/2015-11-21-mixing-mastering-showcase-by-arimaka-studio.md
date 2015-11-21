@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: true
+keywords: []
+description: 'All songs either mixed or mastered by Manuel Jimenez at Arimaka Studio (http://www.arimaka.com ) Mastered by Eric Boulanger at The Mastering Lab and Bakery Mastering: Alnilam, Olafo, and Ojo de Buey'
+datePublished: '2015-11-21T04:50:44.600Z'
+dateModified: '2015-11-21T04:42:23.961Z'
 author:
   - name: Arimaka Studio
     url: 'http://soundcloud.com/arimaka'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: 'All songs either mixed or mastered by Manuel Jimenez at Arimaka Studio (http://www.arimaka.com ) Mastered by Eric Boulanger at The Mastering Lab and Bakery Mastering: Alnilam, Olafo, and Ojo de Buey'
 app_links:
   - type: ios
     app_name: SoundCloud
@@ -22,15 +24,16 @@ app_links:
     package: com.soundcloud.android
   - url: 'soundcloud://playlists:97345'
     type: android
-isBasedOnUrl: 'https://soundcloud.com/arimaka/sets/showcase'
 title: Mixing / Mastering Showcase by Arimaka Studio
-datePublished: '2015-11-21T04:42:00.733Z'
-dateModified: '2015-11-21T04:41:25.549Z'
 sourcePath: _posts/2015-11-21-mixing-mastering-showcase-by-arimaka-studio.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+url: mixing-mastering-showcase-by-arimaka-studio/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
