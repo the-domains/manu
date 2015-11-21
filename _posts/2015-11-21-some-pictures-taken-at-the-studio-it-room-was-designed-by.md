@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.facebook.com/media/set/?set=a.668557503204480.1073741826.112522238808012&type=3'
+inLanguage: null
+starred: false
+keywords: []
+description: "Some pictures taken at the studio, it room was designed by @[207455702772504:274:Blackmer Design]. It's a great environment for making music with simplicity and sonic precision as a priority. The primary function is mixing and mastering; but this room is great for recording, songwriting and pre-production as well."
+datePublished: '2015-11-21T04:50:39.835Z'
+dateModified: '2015-11-21T04:50:26.255Z'
 author:
   - name: Arimaka - Mastering / Mixing / Recording / Production
     url: 'http://facebook.com/112522238808012'
     avatar: {}
 related: []
-publisher:
-  url: 'http://www.facebook.com'
-  name: Facebook
-  favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
-  domain: www.facebook.com
-keywords: []
-description: "Some pictures taken at the studio, it room was designed by @[207455702772504:274:Blackmer Design]. It's a great environment for making music with simplicity and sonic precision as a priority. The primary function is mixing and mastering; but this room is great for recording, songwriting and pre-production as well."
 title: ''
 app_links: []
-isBasedOnUrl: 'https://www.facebook.com/media/set/?set=a.668557503204480.1073741826.112522238808012&type=3'
-datePublished: '2015-11-21T04:48:35.778Z'
-dateModified: '2015-11-21T04:48:04.862Z'
 sourcePath: _posts/2015-11-21-some-pictures-taken-at-the-studio-it-room-was-designed-by.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Facebook
+  domain: www.facebook.com
+  url: 'http://www.facebook.com'
+  favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
